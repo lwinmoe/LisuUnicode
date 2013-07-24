@@ -1,0 +1,13 @@
+    <layout>
+      <configItem>
+        <name>lis</name>
+
+        <shortDescription>lis</shortDescription>
+        <description>Lisu</description>
+        <languageList>
+          <iso639Id>lis</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout>
+
