@@ -1,7 +1,6 @@
 # Lisu Unicode font and keyboard for Linux
 
-I wrote the keyboard layout. The font is modified from the one made by GW SI using 
-[FontForge](http://fontforge.org/).
+I wrote the keyboard layout. The font is modified from the one made by [GW SI](https://www.facebook.com/Peter.Gwa) using [FontForge](http://fontforge.org/).
 
 ## How to install the font
 
