@@ -1,8 +1,11 @@
 # Lisu Unicode font and keyboard for Linux
 
+I wrote the keyboard layout. The font is modifed from Lisu font made by GW SI using 
+[FontForge](http://fontforge.org/).
+
 ## How to install the font
 
-You can copy the font file `NgwaLisu.ttf` to .fonts/ directory in your home folder. The font is modifed from Lisu font made by GW SI.
+You can copy the font file `NgwaLisu.ttf` to `.fonts/` directory in your home folder. 
 
 ## How to install the keyboard
 
