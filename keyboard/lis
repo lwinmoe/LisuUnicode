@@ -14,8 +14,8 @@ xkb_symbols "basic" {
     key <AE08> { [      8,          asterisk,         8,    asterisk ] };
     key <AE09> { [      9,          parenleft,        9,   parenleft ] };
     key <AE10> { [      0,          parenright,       0,  parenright ] };
-    key <AE11> { [      minus,      underscore,   minus,  underscore ] };
-    key <AE12> { [      equal,      plus,         equal,        plus ] };
+    key <AE11> { [      UA4FE,      underscore,   minus,  underscore ] };
+    key <AE12> { [      UA4FF,      plus,         equal,        plus ] };
 
     key <AD01> { [      Q,              Q,            q,           Q ] };
     key <AD02> { [      UA4EA,      UA4EA,            w,           W ] };
@@ -40,7 +40,7 @@ xkb_symbols "basic" {
     key <AC08> { [      UA4D7,      UA4D8,            k,           K ] };
     key <AC09> { [      UA4E1,      UA4F6,            l,           L ] };
     key <AC10> { [      UA4FC,      UA4FD,    semicolon,       colon ] };
-    key <AC11> { [ apostrophe,    quotedbl                           ] };
+    key <AC11> { [      U2019,      U201D,   apostrophe,    quotedbl ] };
 
     key <AB01> { [      UA4DC,       UA4DC,           z,           Z ] };
     key <AB02> { [      UA4EB,       UA4EB,           x,           X ] };

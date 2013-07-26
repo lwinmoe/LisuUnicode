@@ -14,7 +14,5 @@ directory. You will also need to add the content of evdev.xml to evdev.xml in `/
 ### Notes on the keyboard layout
 
 * Lisu tone mark `MYA CYA`(ꓺ) is `Shift + .`
-* Lisu punctuation comma (꓾) is `Shift + n`
-* Lisu punctuation full stop (꓿) is `Shift + m`
-
-
+* Lisu punctuation comma (꓾) is `Shift + n` or `minus sign`
+* Lisu punctuation full stop (꓿) is `Shift + m` or `equal sign`
